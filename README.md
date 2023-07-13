@@ -1,4 +1,4 @@
-This is a Gatsby recipe project which the display the recipe card also it opens up individual card details.
+This is a Gatsby recipe project which the display the recipe card also it opens up individual card details. More detils will be added.
 
 ## 🚀 Starter
 
