@@ -1,9 +1,7 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
+This is a Gatsby recipe project which the display the recipe card also it opens up individual card details.
+
+## 🚀 Starter
+
 <h1 align="center">
   Gatsby's hello-world starter
 </h1>
@@ -14,25 +12,16 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#gatsby-cli)) to create a new site, specifying the hello-world starter.
-
-    ```shell
-    # create a new Gatsby site using the hello-world starter
-    gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
-    ```
-
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-hello-world-starter/
+    cd gatsby-recipe
     gatsby develop
     ```
 
-1.  **Open the source code and start editing!**
+2.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
