@@ -1,5 +1,6 @@
 import React from "react";
+import Layout from "./components/Layout";
 
 export default (Contact) => {
-  return <h1>Hello Contact</h1>;
+  return <Layout>Hello Contact</Layout>;
 };
